@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "title": "Pizza Calabresa",
+        "description": "Deliciosa pizza de calabresa fatiada com cebola roxa fresca e mussarela derretida, preparada sobre uma massa leve, aerada e com borda levemente crocante. O molho de tomate artesanal traz um toque equilibrado entre acidez e doçura, realçando ainda mais o sabor marcante da calabresa. Uma escolha clássica e irresistível para quem aprecia uma pizza tradicional bem executada.",
+        "price": 54.90,
+        "image": "/img/contentPizza/calabresaImg.png",
+        "serves": 2,
+        "nutrition": {
+            "calories": 1800,
+            "fat": 90,
+            "carbs": 190,
+            "sugar": 8,
+            "salt": 4.5
+        }
+    },
+    {
+        "id": 2,
+        "title": "Pizza Portuguesa",
+        "description": "Uma combinação clássica e completa com presunto, ovos, cebola, ervilha e mussarela de alta qualidade, distribuídos sobre uma massa leve e bem assada. O molho especial intensifica os sabores e harmoniza perfeitamente os ingredientes, criando uma experiência rica e equilibrada. Ideal para quem gosta de variedade em cada pedaço.",
+        "price": 59.90,
+        "image": "/img/contentPizza/portuguesaImg.png",
+        "serves": 2,
+        "nutrition": {
+            "calories": 1750,
+            "fat": 85,
+            "carbs": 185,
+            "sugar": 7,
+            "salt": 4.2
+        }
+    },
+    {
+        "id": 3,
+        "title": "Pizza 4 Queijos",
+        "description": "Mistura irresistível de mussarela, provolone, parmesão e gorgonzola, cuidadosamente equilibrados para entregar uma explosão de sabores. A textura cremosa contrasta com a leve crocância da massa, enquanto os queijos se complementam em intensidade e aroma. Perfeita para quem ama queijo em todas as suas formas.",
+        "price": 62.90,
+        "image": "/img/contentPizza/quatroqueijosImg.png",
+        "serves": 2,
+        "nutrition": {
+            "calories": 1950,
+            "fat": 110,
+            "carbs": 170,
+            "sugar": 6,
+            "salt": 5.0
+        }
+    },
+    {
+        "id": 4,
+        "title": "Pizza Frango com Catupiry",
+        "description": "Frango desfiado bem temperado combinado com catupiry cremoso de alta qualidade, formando uma mistura suave e extremamente saborosa. A massa leve com borda dourada garante uma base perfeita para essa combinação clássica brasileira. Uma opção reconfortante e muito popular.",
+        "price": 64.90,
+        "image": "/img/contentPizza/frangocatupiryImg.png",
+        "serves": 2,
+        "nutrition": {
+            "calories": 1850,
+            "fat": 95,
+            "carbs": 180,
+            "sugar": 6,
+            "salt": 4.6
+        }
+    },
+    {
+        "id": 5,
+        "title": "Pizza Pepperoni",
+        "description": "Pepperoni importado em fatias generosas sobre uma camada abundante de queijo derretido, criando uma pizza com sabor marcante e levemente picante. A massa equilibrada e o molho especial complementam essa combinação intensa. Uma das favoritas para quem busca personalidade no sabor.",
+        "price": 69.90,
+        "image": "/img/contentPizza/pepperoniImg.png",
+        "serves": 2,
+        "nutrition": {
+            "calories": 2000,
+            "fat": 115,
+            "carbs": 175,
+            "sugar": 5,
+            "salt": 5.3
+        }
+    },
+    {
+        "id": 6,
+        "title": "Pizza Vegetariana",
+        "description": "Opção leve e nutritiva com abobrinha, tomate, azeitona e champignon frescos, selecionados para garantir sabor e qualidade. A combinação traz frescor e equilíbrio, perfeita para quem busca uma refeição mais leve sem abrir mão do prazer de uma boa pizza.",
+        "price": 58.90,
+        "image": "/img/contentPizza/vegetarianaImg.png",
+        "serves": 2,
+        "nutrition": {
+            "calories": 1500,
+            "fat": 70,
+            "carbs": 200,
+            "sugar": 10,
+            "salt": 3.8
+        }
+    },
+    {
+        "id": 7,
+        "title": "Pizza Bacon Supreme",
+        "description": "Bacon crocante combinado com uma generosa camada de queijo derretido, criando uma experiência intensa e cheia de sabor. A textura crocante do bacon contrasta perfeitamente com a cremosidade do queijo e a leveza da massa. Ideal para quem gosta de sabores mais robustos e marcantes.",
+        "price": 72.90,
+        "image": "/img/contentPizza/baconImg.png",
+        "serves": 2,
+        "nutrition": {
+            "calories": 2100,
+            "fat": 130,
+            "carbs": 165,
+            "sugar": 5,
+            "salt": 5.5
+        }
+    },
+    {
+        "id": 8,
+        "title": "Pizza Mexicana",
+        "description": "Carne bem temperada com pimentão e um toque picante especial que traz personalidade ao prato. A combinação vibrante de ingredientes cria uma pizza intensa, aromática e cheia de identidade. Perfeita para quem gosta de sabores fortes e uma leve picância.",
+        "price": 66.90,
+        "image": "/img/contentPizza/mexicanaImg.png",
+        "serves": 2,
+        "nutrition": {
+            "calories": 1850,
+            "fat": 95,
+            "carbs": 185,
+            "sugar": 7,
+            "salt": 4.7
+        }
+    },
+    {
+        "id": 9,
+        "title": "Pizza Margherita",
+        "description": "Clássica italiana feita com molho de tomate especial, mussarela fresca e folhas de manjericão, proporcionando um sabor leve e extremamente equilibrado. A simplicidade dos ingredientes de alta qualidade resulta em uma pizza elegante e sofisticada, perfeita para qualquer ocasião.",
+        "price": 49.90,
+        "image": "/img/contentPizza/margheritaImg.png",
+        "serves": 2,
+        "nutrition": {
+            "calories": 1600,
+            "fat": 75,
+            "carbs": 190,
+            "sugar": 9,
+            "salt": 3.9
+        }
+    },
+    {
+        "id": 10,
+        "title": "Pizza Carbonara",
+        "description": "Inspirada no clássico italiano, essa pizza combina bacon, ovos e um molho especial cremoso que envolve todos os ingredientes. O resultado é uma pizza rica, encorpada e cheia de sabor, ideal para quem busca uma opção diferenciada e indulgente.",
+        "price": 63.90,
+        "image": "/img/contentPizza/carbonaraImg.png",
+        "serves": 2,
+        "nutrition": {
+            "calories": 1950,
+            "fat": 105,
+            "carbs": 175,
+            "sugar": 6,
+            "salt": 5.1
+        }
+    },
+    {
+        "id": 11,
+        "title": "Pizza Parma",
+        "description": "Presunto de parma de alta qualidade combinado com rúcula fresca sobre uma base de mussarela derretida. A leveza da rúcula equilibra o sabor marcante do parma, criando uma combinação sofisticada e harmoniosa. Ideal para paladares mais exigentes.",
+        "price": 74.90,
+        "image": "/img/contentPizza/parmaImg.png",
+        "serves": 2,
+        "nutrition": {
+            "calories": 1700,
+            "fat": 80,
+            "carbs": 180,
+            "sugar": 6,
+            "salt": 4.8
+        }
+    },
+    {
+        "id": 12,
+        "title": "Pizza Doce de Chocolate",
+        "description": "Cobertura generosa de chocolate ao leite derretido com morangos frescos, sobre uma massa leve e levemente adocicada. A combinação entre o doce do chocolate e a leve acidez da fruta cria uma sobremesa irresistível. Perfeita para finalizar a refeição com chave de ouro.",
+        "price": 52.90,
+        "image": "/img/contentPizza/chocolateImg.png",
+        "serves": 2,
+        "nutrition": {
+            "calories": 2100,
+            "fat": 100,
+            "carbs": 260,
+            "sugar": 80,
+            "salt": 2.5
+        }
+    }
+]

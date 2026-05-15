@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "title": "Combo Família",
+        "description": "Perfeito para compartilhar em família, este combo inclui duas pizzas grandes com sabores à escolha, preparadas com ingredientes selecionados e massa leve, além de um refrigerante de 2L para completar a refeição. Ideal para momentos especiais, reuniões em casa ou aquele almoço de domingo. Uma combinação equilibrada que agrada diferentes paladares com praticidade e sabor.",
+        "price": 99.90,
+        "image": "/img/contentCombos/comboFamiliaImg.png",
+        "serves": 4,
+        "nutrition": {
+            "fat": 180,
+            "carbs": 420,
+            "sugar": 120,
+            "salt": 9.0
+        }
+    },
+    {
+        "id": 2,
+        "title": "Combo Casal",
+        "description": "Combo ideal para duas pessoas, composto por uma pizza grande salgada, um brotinho doce e uma bebida para acompanhar. Perfeito para um jantar completo e bem equilibrado, unindo o melhor dos sabores salgados e doces em uma única experiência. Uma escolha prática e deliciosa para momentos a dois.",
+        "price": 74.90,
+        "image": "/img/contentCombos/comboCasalImg.png",
+        "serves": 2,
+        "nutrition": {
+            "fat": 120,
+            "carbs": 350,
+            "sugar": 90,
+            "salt": 6.0
+        }
+    },
+    {
+        "id": 4,
+        "title": "Combo Gourmet",
+        "description": "Uma experiência mais sofisticada que combina pizza gourmet preparada com ingredientes selecionados, uma entrada especial e bebida para acompanhar. Os sabores são mais refinados e cuidadosamente equilibrados, proporcionando uma refeição diferenciada. Ideal para quem busca sair do tradicional e experimentar algo mais elaborado.",
+        "price": 129.90,
+        "image": "/img/contentCombos/comboAmigosImg.png",
+        "serves": 6,
+        "nutrition": {
+            "fat": 210,
+            "carbs": 520,
+            "sugar": 60,
+            "salt": 11.0
+        }
+    },
+    {
+        "id": 4,
+        "title": "Combo Gourmet",
+        "description": "Uma experiência mais sofisticada que combina pizza gourmet preparada com ingredientes selecionados, uma entrada especial e bebida para acompanhar. Os sabores são mais refinados e cuidadosamente equilibrados, proporcionando uma refeição diferenciada. Ideal para quem busca sair do tradicional e experimentar algo mais elaborado.",
+        "price": 89.90,
+        "image": "/img/contentCombos/comboGourmetImg.png",
+        "serves": 2,
+        "nutrition": {
+            "fat": 110,
+            "carbs": 280,
+            "sugar": 40,
+            "salt": 6.5
+        }
+    },
+    {
+        "id": 5,
+        "title": "Combo Doce",
+        "description": "Perfeito para os amantes de sobremesas, este combo inclui uma pizza doce com cobertura generosa, bebida e uma sobremesa adicional para completar a experiência. A combinação intensa de sabores açucarados traz uma explosão de prazer a cada pedaço. Ideal para finalizar a refeição com um toque especial.",
+        "price": 69.90,
+        "image": "/img/contentCombos/comboDoceImg.png",
+        "serves": 2,
+        "nutrition": {
+            "fat": 130,
+            "carbs": 450,
+            "sugar": 180,
+            "salt": 3.5
+        }
+    },
+    {
+        "id": 6,
+        "title": "Combo Festa",
+        "description": "Ideal para grandes grupos, este combo inclui quatro pizzas grandes com sabores à escolha, garantindo variedade e quantidade para todos. Perfeito para festas, reuniões ou eventos, proporcionando praticidade e satisfação para todos os convidados. Uma solução completa para servir bem e sem complicação.",
+        "price": 159.90,
+        "image": "/img/contentCombos/comboFestaImg.png",
+        "serves": 8,
+        "nutrition": {
+            "fat": 300,
+            "carbs": 720,
+            "sugar": 80,
+            "salt": 15.0
+        }
+    }
+]
