@@ -34,7 +34,7 @@
         "title": "Pizza 4 Queijos",
         "description": "Mistura irresistível de mussarela, provolone, parmesão e gorgonzola, cuidadosamente equilibrados para entregar uma explosão de sabores. A textura cremosa contrasta com a leve crocância da massa, enquanto os queijos se complementam em intensidade e aroma. Perfeita para quem ama queijo em todas as suas formas.",
         "price": 62.90,
-        "image": "/img/contentPizza/quatroqueijosImg.png",
+        "image": "/img/contentPizza/quatroqueijoImg.png",
         "serves": 2,
         "nutrition": {
             "calories": 1950,
@@ -49,7 +49,7 @@
         "title": "Pizza Frango com Catupiry",
         "description": "Frango desfiado bem temperado combinado com catupiry cremoso de alta qualidade, formando uma mistura suave e extremamente saborosa. A massa leve com borda dourada garante uma base perfeita para essa combinação clássica brasileira. Uma opção reconfortante e muito popular.",
         "price": 64.90,
-        "image": "/img/contentPizza/frangocatupiryImg.png",
+        "image": "/img/contentPizza/frangocatupirysImg.png",
         "serves": 2,
         "nutrition": {
             "calories": 1850,
